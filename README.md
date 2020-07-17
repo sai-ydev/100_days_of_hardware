@@ -5,4 +5,5 @@ This is a repo to track 100 days of hardware fun
 Registered as participants for Arduino and Helium IoT for impact contest\
 Soldered MAX30205 boards
 
-Day 110
+## Day 111
+Helium IoT Gateway test
